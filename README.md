@@ -1,2 +1,2 @@
-# Spring2023-Smartphone
+# Smartphone
 Smartphone programming
